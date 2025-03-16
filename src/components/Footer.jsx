@@ -5,7 +5,7 @@ function Footer() {
     <div className='w-full mt-32 h-[45vh] bg-white flex gap-5 px-10'>
          <div className='w-1/2 h-full mt-2'>
              <h1 className='text-7xl font-bold'>Edu-</h1>
-             <h1 className='text-7xl font-bold'>Genious</h1>
+             <h1 className='text-7xl font-bold'>Genius</h1>
              <p className='font-light text-xl mt-2'>The Hyper-Local, AI-Driven Learning Universe</p>
          </div>
          <div className='w-1/2 flex gap-5'>
